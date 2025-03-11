@@ -1,0 +1,3 @@
+angr==9.2.20
+claripy==9.2.20
+pyinstaller==5.13.0

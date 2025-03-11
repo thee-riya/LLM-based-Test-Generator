@@ -1,5 +1,0 @@
-example_binary.py
-pip install angr
-pip install pyinstaller:(to change python file into binary format)
-pyinstaller --onefile example_binary.py->example_binary.spec
-./dist/example_binary(to see binary file is working) 
