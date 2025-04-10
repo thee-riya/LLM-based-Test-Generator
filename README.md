@@ -1,8 +1,3 @@
-Below is an updated version of your README that reflects the changes. It now distinguishes between the C and Python examples, uses the new symbolic execution scripts, and includes updated commands for running each version (with the Python code also being converted into a binary using PyInstaller).
-
----
-
-```markdown
 # 🧩 LLM Based Test Generator
 
 ## 📚 Project Overview
@@ -143,4 +138,3 @@ Similarly, it prompts for inputs and displays either `"Path 1"` or `"Path 2"` ba
 ## 📜 License
 
 This project is licensed under the **IIT Kharagpur**.
-```
